@@ -1,0 +1,4 @@
+robotic_arm_venv/
+.vscode/
+__pycache__/
+*.pyc
