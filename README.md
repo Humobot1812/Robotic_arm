@@ -475,6 +475,11 @@ Future support for:
 
 ---
 
+## 🎥 Demo Video
+
+Watch the project testings here:
+https://youtube.com/playlist?list=PLQcgql__dXrfH8nIemp8dex-iXVDAhFrE&si=F0_X1P3qhQ36WdH9
+
 # 🎯 Project Vision
 
 The goal of this project is to develop a low-cost intelligent robotic manipulation platform that combines:
